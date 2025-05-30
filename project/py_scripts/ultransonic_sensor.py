@@ -58,4 +58,4 @@ while True:
     else:
         print('Out of range')
     print(f"Distance: {dist} , Servo: {servo.duty_ns()}")
-    sleep(0.1)
+    sleep(0.1)       
